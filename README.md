@@ -44,3 +44,7 @@ El trabajo realizado en la clasificación y análisis de sentimientos de reseña
 ## Licencia
 
 Este proyecto está licenciado bajo la Licencia MIT. Para más detalles, consulte el archivo LICENSE en este repositorio.
+
+## Enlaces a Repositorios del Despliegue:
+https://github.com/Samol19/DataScienceAPI
+https://github.com/Samol19/DataScienceApp
